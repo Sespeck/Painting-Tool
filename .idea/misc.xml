@@ -10,7 +10,8 @@
         <entry key="app/src/main/res/drawable/toolbar.xml" value="0.332" />
         <entry key="app/src/main/res/drawable/white_paint.xml" value="0.332" />
         <entry key="app/src/main/res/drawable/yellow_paint.xml" value="0.332" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/paint_view.xml" value="0.1" />
       </map>
     </option>
   </component>
